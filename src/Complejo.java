@@ -34,14 +34,21 @@ public class Complejo {
         double FinalRealPart = realPart + parteImaginaryDesapareciente;
         return new Complejo(FinalRealPart,unionPartImaginary);
     }
-    public Complejo Divicion(Complejo num){
-        double reverseTwoImg = num.imaginary * -1;
-        Complejo numInvertido = new Complejo(num.real, reverseTwoImg);
-        Complejo PartUpp = this.Multiplicacion(numInvertido);
-        Complejo
+    //public Complejo Divicion(Complejo num){
+      //  double reverseTwoImg = num.imaginary * -1;
+        //Complejo numInvertido = new Complejo(num.real, reverseTwoImg);
+        //Complejo PartUpp = this.Multiplicacion(numInvertido);
+        //Complejo PartDown = num.Multiplicacion(numInvertido);
+        //return new Complejo()
+    //}
+    public void ImprimirComplejo(){
+        if (this.imaginary < 0) {
+            System.out.println("(" + this.real + " " + this.imaginary +"i)");
+        }else{
+            System.out.println("(" + this.real + " + " + this.imaginary +"i)");
+        }
+
+
     }
-
-
-
 
 }
