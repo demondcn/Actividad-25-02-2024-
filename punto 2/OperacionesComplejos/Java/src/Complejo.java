@@ -43,9 +43,9 @@ public class Complejo {
     //}
     public void ImprimirComplejo(){
         if (this.imaginary < 0) {
-            System.out.println("(" + this.real + " " + this.imaginary +"i)");
+            JOptionPane.showMessageDialog(null, "Su numero complejo resultante es: (" + this.real + " " + this.imaginary +"i)");
         }else{
-            System.out.println("(" + this.real + " + " + this.imaginary +"i)");
+            JOptionPane.showMessageDialog(null, "Su numero complejo resultante es: (" + this.real + " + " + this.imaginary +"i)");
         }
 
 
