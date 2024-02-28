@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\EjercicioC1\EjercicioC1\bin\Debug\net8.0\EjercicioC1.exe
+C:\Users\ASUS\source\repos\EjercicioC1\EjercicioC1\bin\Debug\net8.0\EjercicioC1.deps.json
+C:\Users\ASUS\source\repos\EjercicioC1\EjercicioC1\bin\Debug\net8.0\EjercicioC1.runtimeconfig.json
+C:\Users\ASUS\source\repos\EjercicioC1\EjercicioC1\bin\Debug\net8.0\EjercicioC1.dll
+C:\Users\ASUS\source\repos\EjercicioC1\EjercicioC1\bin\Debug\net8.0\EjercicioC1.pdb
+C:\Users\ASUS\source\repos\EjercicioC1\EjercicioC1\obj\Debug\net8.0\EjercicioC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\EjercicioC1\EjercicioC1\obj\Debug\net8.0\EjercicioC1.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\EjercicioC1\EjercicioC1\obj\Debug\net8.0\EjercicioC1.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\EjercicioC1\EjercicioC1\obj\Debug\net8.0\EjercicioC1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\EjercicioC1\EjercicioC1\obj\Debug\net8.0\EjercicioC1.dll
+C:\Users\ASUS\source\repos\EjercicioC1\EjercicioC1\obj\Debug\net8.0\refint\EjercicioC1.dll
+C:\Users\ASUS\source\repos\EjercicioC1\EjercicioC1\obj\Debug\net8.0\EjercicioC1.pdb
+C:\Users\ASUS\source\repos\EjercicioC1\EjercicioC1\obj\Debug\net8.0\EjercicioC1.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\EjercicioC1\EjercicioC1\obj\Debug\net8.0\ref\EjercicioC1.dll
