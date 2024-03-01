@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\EjercicioC1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C97A2A6-3802-4A64-949B-7B41F3C6C3EA}|EjercicioC1\\EjercicioC1.csproj|c:\\users\\asus\\source\\repos\\ejercicioc1\\ejercicioc1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C97A2A6-3802-4A64-949B-7B41F3C6C3EA}|EjercicioC1\\EjercicioC1.csproj|solutionrelative:ejercicioc1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C97A2A6-3802-4A64-949B-7B41F3C6C3EA}|EjercicioC1\\EjercicioC1.csproj|c:\\users\\asus\\source\\repos\\ejercicioc1\\ejercicioc1\\ejercicioc1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C97A2A6-3802-4A64-949B-7B41F3C6C3EA}|EjercicioC1\\EjercicioC1.csproj|solutionrelative:ejercicioc1\\ejercicioc1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EjercicioC1\\EjercicioC1\\Program.cs",
+              "RelativeDocumentMoniker": "EjercicioC1\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EjercicioC1\\EjercicioC1\\Program.cs",
+              "RelativeToolTip": "EjercicioC1\\Program.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAFoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T02:31:16.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EjercicioC1",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EjercicioC1\\EjercicioC1\\EjercicioC1.csproj",
+              "RelativeDocumentMoniker": "EjercicioC1\\EjercicioC1.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EjercicioC1\\EjercicioC1\\EjercicioC1.csproj",
+              "RelativeToolTip": "EjercicioC1\\EjercicioC1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-28T02:31:12.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
