@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1b1229b7-b15f-47cf-a85d-69b9ac44e67a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,9 +13,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2d19S27291lbWowtHtiscSCXN24" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,9 +25,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "MercedesContibution",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Demondcn/Desktop/duplicate/Actividad-25-02-2024-/punto 2/OperacionesComplejos/Java"
+    "last_opened_file_path": "C:/Users/Demondcn/Desktop/duplicate/Actividad-25-02-2024-/punto 1/Resolucion de puntos de la guia/Punto de las figuras/Java/Figuras"
   }
 }]]></component>
   <component name="SharedIndexes">
