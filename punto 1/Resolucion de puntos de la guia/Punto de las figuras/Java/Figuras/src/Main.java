@@ -91,7 +91,7 @@ public class Main {
                         break;
                 }
             } while (opccion > 4);
-        } while (opccionSalida != 0);
+        } while (opccionSalida == 0);
 
 
     }
